@@ -1,0 +1,9 @@
+# folders to ignore 
+./venv/
+.vscode/
+
+# cache files
+__pycache__/
+
+# files to ignore
+.env
